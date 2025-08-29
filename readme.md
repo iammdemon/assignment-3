@@ -33,7 +33,7 @@
 
 
 - `preventDefault()` prevents the browser's default action for an event. Example: preventing form submission, stopping a link from navigating.
-- `stopPropagation()` stops the event from bubbling (or capturing) further — it prevents parent elements from receiving the event.
+- `stopPropagation()` stops the event from bubbling  further — it prevents parent elements from receiving the event.
 
 
 
